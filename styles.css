@@ -19,8 +19,8 @@ h1 {
 }
 
 #game-board {
-    background-color: #3CB371;
-    border: 2px solid #000;
+    background-color: hsl(96, 100%, 50%);
+    border: 2px solid #353232;
 }
 
 #score {
