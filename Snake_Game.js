@@ -4,7 +4,7 @@ const scoreDisplay = document.getElementById('score');
 const startButton = document.getElementById('start-button');
 
 const canvasSize = 400;
-const scale = 20;
+const scale = 10;
 const snakeColor = '#000000';
 const foodColor = '#FFFFFF';
 canvas.width = canvasSize;
